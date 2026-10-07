@@ -1,15 +1,14 @@
 ```md
 # Hi, I'm Kshitiz 👋
 
-Software Engineer at Google, interested in building reliable backend systems, distributed systems, and AI-powered products.
+Software Engineer at Google, experienced in building reliable backend systems, distributed systems, and AI-powered products.
 
 ## About
 
 - Software Engineer III at Google
 - Previously interned at Amazon and Goldman Sachs
-- Interested in Backend Engineering, Distributed Systems, System Design, and AI
+- Experienced in Backend Engineering, Distributed Systems, System Design, and AI
 - Competitive Programmer — Codeforces Candidate Master, CodeChef 6-Star
-- Currently sharpening Low-Level Design, System Design, and production engineering skills
 
 ## Tech
 
@@ -34,5 +33,5 @@ Software Engineer at Google, interested in building reliable backend systems, di
 
 ## Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/kshitizjaiswal/) • [Email](mailto:kshitizjaiswal4work@gmail)
 ```
