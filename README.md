@@ -1,4 +1,4 @@
-```md
+
 # Hi, I'm Kshitiz 👋
 
 Software Engineer at Google, experienced in building reliable backend systems, distributed systems, and AI-powered products.
@@ -34,4 +34,4 @@ Software Engineer at Google, experienced in building reliable backend systems, d
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/kshitizjaiswal/) • [Email](mailto:kshitizjaiswal4work@gmail)
-```
+
